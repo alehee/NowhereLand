@@ -1,0 +1,71 @@
+#include <iostream>
+
+using namespace std;
+
+class Wioska;
+class Menu;
+
+class Historie
+{
+protected:
+
+    char wyb_historie;
+    short historia;
+    short odliczanie;
+    bool czytanie;
+
+    void wywolywacz();
+    void zm_gwiazda();
+    void zm_ufo();
+    void zm_rosliny();
+    void zm_stroz();
+    void zm_staruszek();
+    void zm_bazyliszek();
+    void zm_biale();
+    void zm_kupcy();
+    void zm_galowie();
+    void zm_wiedzmin();
+    void zm_meteoryt();
+    void zm_dziki();
+    void zm_mgla();
+    void zm_zwiadowca();
+    void zm_ptaki();
+    void zm_kokon();
+    void zm_traby();
+    void zm_przemarsz();
+    void zm_obozowisko();
+    void zm_bestia();
+    void zm_zwierzeta();
+    void zm_smok();
+    void zm_dzikie();
+    void zm_zorza();
+    void zm_wypadek();
+    void zm_fusrodah();
+    void zm_wybuch();
+    void zo_plaga();
+    void zo_mrozy();
+    void zo_bunt();
+    void zo_deszcze();
+    void zo_naukowiec();
+    void zo_zatrucia();
+    void zo_manna();
+    void zo_grota();
+    void zo_handlarz();
+    void zo_lowcy();
+    void zo_trzesienie();
+    void zo_gaz();
+    void zo_noc();
+    void zo_kanalizacja();
+    void zo_dzwieki();
+    void zo_lenistwo();
+    void zo_swieto();
+    void zo_przyroda();
+
+public:
+
+    friend void funkcja_wioska(Wioska *wskaznik_wioska, Historie *wskaznik_historie);
+    friend void menu_gry(Menu *wskaznik_menu, Wioska *wskaznik_wioska, Historie *wskaznik_historie);
+    friend int main();
+
+    Historie(char='a', short=0, short=0, bool=false);
+};

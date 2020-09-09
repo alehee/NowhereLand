@@ -1,0 +1,298 @@
+# depslib dependency file v1.0
+1520250655 source:c:\c++\the_wall_project\biblioteka.cpp
+	<iostream>
+	"biblioteka.h"
+
+1520250522 c:\c++\the_wall_project\biblioteka.h
+	<iostream>
+
+1520859696 source:c:\c++\the_wall_project\interfejs.cpp
+	<iostream>
+	"interfejs.h"
+	<windows.h>
+	<conio.h>
+
+1520859713 c:\c++\the_wall_project\interfejs.h
+	<iostream>
+
+1520860279 source:c:\c++\the_wall_project\main.cpp
+	<iostream>
+	"interfejs.h"
+	"biblioteka.h"
+
+1521565435 source:c:\users\aleks\documents\github\twp\biblioteka.cpp
+	<iostream>
+	"biblioteka.h"
+
+1521565435 c:\users\aleks\documents\github\twp\biblioteka.h
+	<iostream>
+
+1544735432 source:c:\users\aleks\documents\github\twp\interfejs.cpp
+	<iostream>
+	"interfejs.h"
+	<windows.h>
+	<conio.h>
+	<fstream>
+	<string>
+
+1542223802 c:\users\aleks\documents\github\twp\interfejs.h
+	<iostream>
+	<string>
+
+1521552358 source:c:\c++\twp\biblioteka.cpp
+	<iostream>
+	"biblioteka.h"
+
+1521552358 c:\c++\twp\biblioteka.h
+	<iostream>
+
+1528698123 source:c:\c++\twp\interfejs.cpp
+	<iostream>
+	"interfejs.h"
+	<windows.h>
+	<conio.h>
+	<fstream>
+	<string>
+
+1528110651 c:\c++\twp\interfejs.h
+	<iostream>
+	<string>
+
+1528710144 source:c:\c++\twp\main.cpp
+	<iostream>
+	<windows.h>
+	<fstream>
+	<conio.h>
+	<string>
+	<cstdlib>
+	"interfejs.h"
+	"historie.h"
+
+1526892185 c:\c++\twp\wioska.h
+
+1526892185 source:c:\c++\twp\wioska.cpp
+
+1544734434 source:c:\users\aleks\documents\github\twp\main.cpp
+	<iostream>
+	<windows.h>
+	<fstream>
+	<conio.h>
+	<string>
+	<cstdlib>
+	<ctime>
+	"interfejs.h"
+	"historie.h"
+
+1526578355 c:\users\aleks\documents\github\twp\wioska.h
+
+1526578355 source:c:\users\aleks\documents\github\twp\wioska.cpp
+
+1528801470 source:c:\teb 2c aleksander heese\twp\twp\interfejs.cpp
+	<iostream>
+	"interfejs.h"
+	<windows.h>
+	<conio.h>
+	<fstream>
+	<string>
+
+1528364799 c:\teb 2c aleksander heese\twp\twp\interfejs.h
+	<iostream>
+	<string>
+
+1528798333 source:c:\teb 2c aleksander heese\twp\twp\main.cpp
+	<iostream>
+	<windows.h>
+	<fstream>
+	<conio.h>
+	<string>
+	<cstdlib>
+	"interfejs.h"
+	"historie.h"
+
+1526388983 c:\teb 2c aleksander heese\twp\twp\wioska.h
+
+1526389028 source:c:\teb 2c aleksander heese\twp\twp\wioska.cpp
+
+1542226542 c:\users\aleks\documents\github\twp\historie.h
+	<iostream>
+
+1542290515 source:c:\users\aleks\documents\github\twp\historie.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	"historie.h"
+
+1528104064 source:c:\c++\twp\historie.cpp
+	<iostream>
+	"historie.h"
+
+1528110672 c:\c++\twp\historie.h
+	<iostream>
+
+1528364799 source:c:\teb 2c aleksander heese\twp\twp\historie.cpp
+	<iostream>
+	"historie.h"
+
+1528364799 c:\teb 2c aleksander heese\twp\twp\historie.h
+	<iostream>
+
+1543914500 source:f:\aleksander heese 3c\github\twp\historie.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	"historie.h"
+
+1543914500 f:\aleksander heese 3c\github\twp\historie.h
+	<iostream>
+
+1543914958 source:f:\aleksander heese 3c\github\twp\interfejs.cpp
+	<iostream>
+	"interfejs.h"
+	<windows.h>
+	<conio.h>
+	<fstream>
+	<string>
+
+1543914500 f:\aleksander heese 3c\github\twp\interfejs.h
+	<iostream>
+	<string>
+
+1536924360 source:c:\users\teb.gliwiceteb\documents\ah.3c\github\twp\historie.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	"historie.h"
+
+1536924360 c:\users\teb.gliwiceteb\documents\ah.3c\github\twp\historie.h
+	<iostream>
+
+1536924360 source:c:\users\teb.gliwiceteb\documents\ah.3c\github\twp\interfejs.cpp
+	<iostream>
+	"interfejs.h"
+	<windows.h>
+	<conio.h>
+	<fstream>
+	<string>
+
+1536932425 c:\users\teb.gliwiceteb\documents\ah.3c\github\twp\interfejs.h
+	<iostream>
+	<string>
+
+1536924360 source:c:\users\teb.gliwiceteb\documents\ah.3c\github\twp\main.cpp
+	<iostream>
+	<windows.h>
+	<fstream>
+	<conio.h>
+	<string>
+	<cstdlib>
+	<ctime>
+	"interfejs.h"
+	"historie.h"
+
+1543915515 source:f:\aleksander heese 3c\github\twp\main.cpp
+	<iostream>
+	<windows.h>
+	<fstream>
+	<conio.h>
+	<string>
+	<cstdlib>
+	<ctime>
+	"interfejs.h"
+	"historie.h"
+
+1543914500 source:f:\aleksander-heese-3c\github\twp\historie.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	"historie.h"
+
+1543914500 f:\aleksander-heese-3c\github\twp\historie.h
+	<iostream>
+
+1545035877 source:f:\aleksander-heese-3c\github\twp\interfejs.cpp
+	<iostream>
+	"interfejs.h"
+	<windows.h>
+	<conio.h>
+	<fstream>
+	<string>
+
+1543914500 f:\aleksander-heese-3c\github\twp\interfejs.h
+	<iostream>
+	<string>
+
+1544783923 source:f:\aleksander-heese-3c\github\twp\main.cpp
+	<iostream>
+	<windows.h>
+	<fstream>
+	<conio.h>
+	<string>
+	<cstdlib>
+	<ctime>
+	"interfejs.h"
+	"historie.h"
+
+1562328537 source:d:\proj_programming\github\nowhere-land\historie.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	"historie.h"
+
+1562328537 d:\proj_programming\github\nowhere-land\historie.h
+	<iostream>
+
+1562881607 source:d:\proj_programming\github\nowhere-land\main.cpp
+	<iostream>
+	<windows.h>
+	<fstream>
+	<conio.h>
+	<string>
+	<cstdlib>
+	<ctime>
+	"interfejs.h"
+	"historie.h"
+
+1562328537 d:\proj_programming\github\nowhere-land\interfejs.h
+	<iostream>
+	<string>
+
+1562881577 source:d:\proj_programming\github\nowhere-land\interfejs.cpp
+	<iostream>
+	"interfejs.h"
+	<windows.h>
+	<conio.h>
+	<fstream>
+	<string>
+
+1562324937 source:d:\proj_programming\cpp\nowhereland — kopia\historie.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	"historie.h"
+
+1562324937 d:\proj_programming\cpp\nowhereland — kopia\historie.h
+	<iostream>
+
+1562878344 source:d:\proj_programming\cpp\nowhereland — kopia\interfejs.cpp
+	<iostream>
+	"interfejs.h"
+	<windows.h>
+	<conio.h>
+	<fstream>
+	<string>
+
+1562324937 d:\proj_programming\cpp\nowhereland — kopia\interfejs.h
+	<iostream>
+	<string>
+
+1562878007 source:d:\proj_programming\cpp\nowhereland — kopia\main.cpp
+	<iostream>
+	<windows.h>
+	<fstream>
+	<conio.h>
+	<string>
+	<cstdlib>
+	<ctime>
+	"interfejs.h"
+	"historie.h"
+

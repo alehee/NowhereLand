@@ -1,0 +1,81 @@
+Pre-Alpha 1.1	(01.10.2018)
+- pasek surowców dostêpny w ka¿dym budynku
+- dodano wskaŸnik przyrostu/straty surowców
+- odblokowano poziom narzêdzi
+- leczenie rannych u uleczyciela z mo¿liwoœci¹ manipulacji
+- umieranie ludzi przez brak jedzenia
+
+Naprawione bugi:
+- przeskakiwanie o dwa poziomy w rozbudowaniu niektórych budynków
+- zmiana mechaniki zgody na rozbudowê (przycisk t)
+- wymóg przyciœniêcia klawisza po og³oszeniu kolejnego dnia, gdy nie ma ¿adnej sytuacji
+- brak rannych po walkach
+- jedzenie na minusie
+
+
+
+Beta 1.0	(29.10.2018)
+- do ka¿dego ekranu budowy dodano banner iloœci surowców
+- przy budowie ka¿dego budynku dodano opis
+- ka¿dy poziom muru daje wiêcej obrony wiosce
+- jaskinia pozwala uchroniæ czêœæ surowców przed wykradniêciem po pora¿ce
+- korekta stylistyczna tekstu w pewnych miejscach
+- trzy nowe wydarzenia losowe
+
+Naprawione bugi:
+- drobne nieœcis³oœci szkolenia rolników i wojowników
+- b³êdnie podawany przyrost w banerze
+- fa³szywa informacja wymogu drwala poziom 3 u ³owcy
+
+
+
+1.0		(4.11.2018)
+- zaktualizowana opcja "O grze"
+- ka¿dy poziom koszar daje wiecej ataku wiosce
+- dodano intro gry z nazw¹ studia
+- dopinanie elementów na ostatni guzik przed pe³n¹ wersj¹
+
+Naprawione bugi:
+- b³êdnie podawany przyrost w banerze (znowu)
+- problem z wyjœciem z kreatora nowej gry
+
+
+
+1.1		(4.12.2018)
+- w menu dodano opcje: "Opcje"(w trakcie rozwoju) i "Samouczek"
+- mo¿liwoœæ w³¹czenia "Statystyki programistyczne" w "Opcje" (domyœlnie wy³¹czone)
+- dodano samouczek dla nowych graczy
+- 5 nowych zdarzeñ losowych (³¹cznie 15)
+- dodano napis "Zapisuje . . ." na koñcu rundy
+- drobne poprawy tekstu
+
+Naprawione bugi:
+- ma³e bugi z algorytmem walki
+
+
+
+1.2 FINAL	(18.12.2018)
+- zmieniono czcionkê na jaœniejsz¹
+- dodano w "Opcje" mo¿liwoœæ zmiany koloru czcionki
+- FINAL VERSION!
+
+Naprawione bugi:
+- drobne bugi przed ostateczn¹ wersj¹
+
+
+
+1.2.1	(w miêdzyczasie)
+- poprawa drobnych b³êdów i stylistyki
+
+Naprawione bugi:
+- brak!
+
+
+
+2.0 Competitive Edition	()
+- nowe intro gry
+
+Naprawione bugi:
+- brak!
+
+
