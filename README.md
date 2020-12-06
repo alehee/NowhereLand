@@ -1,8 +1,16 @@
-# NowhereLand
-C++ - Text-based strategy game
+# Nowhere Land
+Nowhere Land is a text-based console single player strategy game includes:
+* Day and night cycle
+* Random events
+* 'Feed your people or they die!' system
 
-Used basic C++ with some libraries.
+## Table of contents
+1.
 
-Simple strategy where you develop your own fantasy village.
+## Used technology
 
-Day and night cycle, random events, hardcore.
+## Installation
+
+  ### Requirements
+
+  ### Download
