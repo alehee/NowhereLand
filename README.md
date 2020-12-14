@@ -15,7 +15,7 @@ My first coding project. Some bugs but much more fun! You can download the sourc
 Game only in **polish version!**
 
 ## Used technology
-Technology I used in this project:
+Technology I used for this project:
 * C++ 11
 * Standard C++ libraries
 
